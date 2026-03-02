@@ -1,0 +1,111 @@
+body { 
+
+    font-family: Arial, Helvetica, sans-serif; 
+
+    color: #d54b01; 
+
+    background-color: #000000; 
+
+    margin: 0; 
+
+    padding: 0; 
+
+    line-height: 1.6; 
+
+} 
+header { 
+
+    background-color: #000000; 
+
+    color: #d54b01; 
+
+
+    padding: 20px; 
+
+    text-align: center; 
+
+} 
+
+ 
+
+header h1 { 
+
+    margin: 0; 
+
+} 
+
+ 
+
+nav a { 
+
+    color: #d54b01; 
+
+
+    text-decoration: none; 
+
+    margin: 0 10px; 
+
+} 
+
+ 
+
+nav a:hover { 
+
+    text-decoration: underline; 
+
+} 
+main { 
+
+    padding: 20px; 
+
+    max-width: 800px; 
+
+    margin: 0 auto; 
+
+} 
+
+ 
+
+main img { 
+
+    max-width: 100%; 
+
+    height: auto; 
+
+    display: block; 
+
+    margin: 20px 0; 
+
+} 
+footer { 
+
+    background-color: #000000; 
+
+    color: #d54b01; 
+    
+
+    text-align: center; 
+
+    padding: 10px; 
+
+    position: fixed; 
+
+    bottom: 0; 
+
+    width: 100%; 
+
+} 
+img { 
+
+    border: 5px solid #ffffff; 
+
+    border-radius: 10px; 
+
+} 
+main a[href="https://mail.google.com/mail/?view=cm&fs=1&to=makubatesine@gmail.com"] { 
+
+    color: #16063e; 
+
+    font-weight: bold; 
+
+} 
